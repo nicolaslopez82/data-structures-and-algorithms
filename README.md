@@ -1,94 +1,95 @@
-## These 2 courses were taking in Udemy (Holczer Balazs) in order to get a refresh about Data Structures and Algorithms. 
+# Data Structures and Algorithms.  
+Udemy (Holczer Balazs)
 
-# Section 1:
+## Section 1:
 
-  - Data Structures and Abstract Data Types
+  - Data Structures and Abstract Data Types.
 
-  - Arrays and Linked Lists
+  - Arrays and Linked Lists.
 
-  - Arrays and Linked List related interview questions
+  - Arrays and Linked List related interview questions.
 
-# Section 2:
+## Section 2:
 
-  - Stacks and Queues
+  - Stacks and Queues.
 
-  - Heap memory and Stack memory
+  - Heap memory and Stack memory.
 
-# Section 3:
+## Section 3:
 
-  - Tree Data Structures
+  - Tree Data Structures.
 
-  - Binary Search Trees
+  - Binary Search Trees.
 
-  - Balanced Search Trees: AVL Trees and Red-Black Trees
+  - Balanced Search Trees: AVL Trees and Red-Black Trees.
 
-  - Splay Trees (cache)
+  - Splay Trees (cache).
 
-  - B-trees and their applications in memory
+  - B-trees and their applications in memory.
 
-  - Heaps
+  - Heaps.
 
-# Section 4:
+## Section 4:
 
   - Hshing and Hashtables (Hashmaps)
 
-  - Hash-functions
+  - Hash-functions.
 
-  - Achieve O(1) running time complexity in Hashmaps  - 
+  - Achieve O(1) running time complexity in Hashmaps.
 
-# Section 5:
+## Section 5:
 
-  - LRU cache
+  - LRU cache.
 
-  - LRU cache implementation
+  - LRU cache implementation.
 
-# Section 6:
+## Section 6:
 
-  - Fenwick trees (binary indexed trees)
+  - Fenwick trees (binary indexed trees).
 
 
-## Algorithms Course about Algorithmic Problems, focusing on Backtracking and Dynamic Programming. 
+# Algorithms Course about Algorithmic Problems, focusing on Backtracking and Dynamic Programming. 
 
-# Section 1:
+## Section 7:
 
-  - Recursion and Recursive methods
+  - Recursion and Recursive methods.
 
-  - Linear and Binary Search
+  - Linear and Binary Search.
 
-  - Tower of Hanoi problem
+  - Tower of Hanoi problem.
 
-# Section 2:
+## Section 8:
 
-  - Selection algorithms
+  - Selection algorithms.
 
-  - Quickselect algorithm
+  - Quickselect algorithm.
 
-  - The Secretary problem
+  - The Secretary problem.
 
-# Section 3:
+## Section 9:
 
-  - Backtracking
+  - Backtracking.
 
-  - N-Queens problem and Hamiltonian Cycle problem
+  - N-Queens problem and Hamiltonian Cycle problem.
 
-  - Knight's Tour problem
+  - Knight's Tour problem.
 
-  - Sudoku Game
+  - Sudoku Game.
 
-# Section 4:
+## Section 10:
 
-  - Dynamic Programming
+  - Dynamic Programming.
 
-  - Knapsack problem
+  - Knapsack problem.
 
-  - Coin Change problem and Rod Cutting problem
+  - Coin Change problem and Rod Cutting problem.
 
-# Section 5:
+## Section 11:
 
   - Bin Packing problem
 
-  - Closest Pair of Points problem
+  - Closest Pair of Points problem.
 
-# Section 6:
+## Section 12:
 
-  - Top Interview Questions (Google, Facebook and Amazon)
+  - Top Interview Questions (Google, Facebook and Amazon).
