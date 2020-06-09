@@ -16,6 +16,10 @@ import java.util.Map;
  *
  * s = "loveleetcode",
  * return 2.
+ *
+ * Details:
+ * Runtime: 24 ms, faster than 30.56% of Java online submissions for First Unique Character in a String.
+ * Memory Usage: 40.1 MB, less than 49.28% of Java online submissions for First Unique Character in a String.
  */
 
 public class FirstUniqueCharacterInString {
