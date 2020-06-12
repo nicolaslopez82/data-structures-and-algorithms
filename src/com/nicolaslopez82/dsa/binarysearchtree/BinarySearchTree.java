@@ -32,7 +32,7 @@ package com.nicolaslopez82.dsa.binarysearchtree;
  *
  * ===============================================================================================================
  *
- * Traversal: sometimes it is neccessary to visit every node in the tree
+ * Traversal: sometimes it is necessary to visit every node in the tree
  * 		We can do it several ways
  *
  * 			1.) In-order traversal -> leftSide + root +rightSide (recursively).
@@ -46,7 +46,7 @@ package com.nicolaslopez82.dsa.binarysearchtree;
  * 	What about the worst case scenarios?
  * 	- if the tree becomes unbalanced: the operations running times can be
  * 		reduced to O(N) in the worst case
- * 	- thats why it is important to keep a tree as balanced as possible
+ * 	- that's why it is important to keep a tree as balanced as possible
  *
  */
 
@@ -57,7 +57,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements Tree<T>{
     @Override
     public void insert(T data){
         if( root == null ){
-            root = new Node<T>(data);
+            root = new Node<>(data);
         }else {
             insertNode(data, root);
         }
